@@ -42,7 +42,10 @@ Abaixo está a lista de desafios que encontrei após alguns dias de buscas, sepa
 ➡️ desafio | site da empresa
 
 ### Android 📱:
+- [➡️ Amaro](https://github.com/amaroteam/mobile-android-challenge) | Amaro
 
+
+- [➡️ Aircall.io](https://github.com/aircall/android-test) | Aircall.io
 - [➡️ Aiko Digital](https://github.com/aikodigital/teste-android-estagio-v1) | aiko.digital
 - [➡️ AirCall](https://github.com/aircall/android-test) | aircall.io
 - [➡️ AMARO](https://github.com/amaroteam/mobile-android-challenge) | amaro.com
@@ -70,7 +73,6 @@ Abaixo está a lista de desafios que encontrei após alguns dias de buscas, sepa
 - [➡️ Squad](https://github.com/squadbr/Desafio-Android) | squad.com.br
 - [➡️ AirCall](https://github.com/aircall/android-test) | aircall.io
 - [➡️ Seekers Capital](https://github.com/SeekersAdvisorsLabs/hr-mobile-android-test) | linkedin.com/company/seekers-capital-group
-- [➡️ Squad](https://github.com/squadbr/Desafio-Android) | squad.com.br
 - [➡️ Thortful](https://github.com/mhasanali/ThortfulTest) | thortful.com
 - [➡️ Mango Tech](https://github.com/mango-tech/RickAndMortyApp) | tech.mango
 - [➡️ Viva Decora](https://github.com/vivadecora/vd-android-test) | vivadecora.com.br
@@ -80,7 +82,8 @@ Abaixo está a lista de desafios que encontrei após alguns dias de buscas, sepa
 - [➡️ B2W Digital](https://github.com/b2w-marketplace/challenge-ios) | americanasmarketplace.com.br
 - [➡️ BTG Pactual](https://github.com/btgpactualdigitaldev/iOS-challenge-BTG) | btgpactual.com
 - [➡️ Ciclic](https://github.com/ciclic/test-ios) | ciclic.com.br
-- [➡️ Claro](https://github.com/mobile-clarobrasil/claro-brasil-challenge-ios) | claro.com.br
+- [➡️ Lodjinha](https://github.com/b2w-marketplace/challenge-ios) | claro.com.br
+- [➡️ Amaro](https://github.com/amaroteam/mobile-android-challenge) | a Lodjinha
 - [➡️ Nexaas](https://github.com/myfreecomm/desafio-mobile-ios) | nexaas.com
 - [➡️ Paggcerto](https://github.com/paggcerto-sa/desafios/blob/master/mobile-ios.md) | pagcerto.com.br
 - [➡️ Squad](https://github.com/squadbr/Desafio-iOS) | squad.com.br
@@ -98,6 +101,7 @@ Abaixo está a lista de desafios que encontrei após alguns dias de buscas, sepa
 - [➡️ iClinic](https://github.com/iclinic/api-desafio-mobile) | iclinic.com.br
 - [➡️ idwall](https://github.com/idwall/desafios-iddog/tree/master/mobile) | idwall.co
 - [➡️ Ocado Technology](https://github.com/ocadotechnology/mobile-challenge) | ocadotechnology.com
+- [MarketPlace] (https://github.com/marketpayconductor/desafio-mobile) | MarketPlace
 - [➡️ Petlove](https://github.com/petlove/vagas/tree/master/mobile) | petlove.com.br
 - [➡️ Safety System Technology](github.com/safetysystemtechnology/desafio-mobile) | safetysystemtechnology.com.br
 - [➡️ Skore](https://github.com/skore-io/teste-mobile) | skore.io
